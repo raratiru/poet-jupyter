@@ -3,6 +3,7 @@
 
 # A script that's needed to setup django if it's not already running on a server.
 # Without this, you won't be able to import django modules
+# Inspired from: https://blog.theodo.com/2020/11/django-jupyter-vscode-setup/
 
 import os
 import sys
